@@ -1583,7 +1583,7 @@ G2L_MODULES[G2L["30"]] = {
 Closure = function()
     local script = G2L["30"];
 return {
-	["TestPack"] = {
+	["OldPack"] = {
 		["climb"] = {
 			["ClimbAnim"] = "http://www.roblox.com/asset/?id=10921154678"
 		},
@@ -1609,6 +1609,33 @@ return {
 		["walk"] = {
 			["WalkAnim"] = "http://www.roblox.com/asset/?id=913402848"
 		},
+
+		["NewPack"] = {
+			["climb"] = {
+				["ClimbAnim"] = "http://www.roblox.com/asset/?id=10921154678"
+			},
+			["fall"] = {
+				["FallAnim"] = "http://www.roblox.com/asset/?id=10921148939"
+			},
+			["idle"] = {
+				["Animation1"] = "http://www.roblox.com/asset/?id=10921315373",
+				["Animation2"] = "http://www.roblox.com/asset/?id=10921316709"
+			},
+			["jump"] = {
+				["JumpAnim"] = "http://www.roblox.com/asset/?id=10921149743"
+			},
+			["run"] = {
+				["RunAnim"] = "http://www.roblox.com/asset/?id=10921261968"
+			},
+			["swim"] = {
+				["Swim"] = "http://www.roblox.com/asset/?id=913384386"
+			},
+			["swimidle"] = {
+				["SwimIdle"] = "http://www.roblox.com/asset/?id=913389285"
+			},
+			["walk"] = {
+				["WalkAnim"] = "http://www.roblox.com/asset/?id=913402848"
+	    },
 	}
 }
 end;
@@ -1619,6 +1646,7 @@ Closure = function()
 return {
 	["Sidekicks - George Ezra"] = "http://www.roblox.com/asset/?id=10370362157",
 	["V Pose - Tommy Hilfiger"] = "http://www.roblox.com/asset/?id=10214319518",
+	["Bone Chillin' Bop"] = "http://www.roblox.com/asset/?id=15122972413",
 	["Baby Queen - Bouncy Twirl"] = "http://www.roblox.com/asset/?id=14352343065"
 }
 end;
