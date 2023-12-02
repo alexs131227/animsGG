@@ -1608,7 +1608,7 @@ return {
 		},
 		["walk"] = {
 			["WalkAnim"] = "http://www.roblox.com/asset/?id=913402848"
-					}
+		},
 
 		["NewPack"] = {
 			["climb"] = {
@@ -1635,7 +1635,7 @@ return {
 			},
 			["walk"] = {
 				["WalkAnim"] = "http://www.roblox.com/asset/?id=913402848"
-	    },
+	    }
 	}
 }
 end;
