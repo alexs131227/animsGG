@@ -1609,7 +1609,7 @@ return {
 		["walk"] = {
 			["WalkAnim"] = "http://www.roblox.com/asset/?id=913402848"
 		},
-
+				},
 		["NewPack"] = {
 			["climb"] = {
 				["ClimbAnim"] = "http://www.roblox.com/asset/?id=10921154678"
