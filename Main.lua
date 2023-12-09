@@ -1610,6 +1610,35 @@ return {
 			["WalkAnim"] = "http://www.roblox.com/asset/?id=913402848"
 		},
 				},
+
+	["MM2"] = {
+		["climb"] = {
+			["ClimbAnim"] = "http://www.roblox.com/asset/?id=10921154678"
+		},
+		["fall"] = {
+			["FallAnim"] = "http://www.roblox.com/asset/?id=10921307241"
+		},
+		["idle"] = {
+			["Animation1"] = "http://www.roblox.com/asset/?id=10921301576",
+			["Animation2"] = "http://www.roblox.com/asset/?id=10921302207"
+		},
+		["jump"] = {
+			["JumpAnim"] = "http://www.roblox.com/asset/?id=10921308158"
+		},
+		["run"] = {
+			["RunAnim"] = "http://www.roblox.com/asset/?id=10921148209"
+		},
+		["swim"] = {
+			["Swim"] = "http://www.roblox.com/asset/?id=913384386"
+		},
+		["swimidle"] = {
+			["SwimIdle"] = "http://www.roblox.com/asset/?id=913389285"
+		},
+		["walk"] = {
+			["WalkAnim"] = "http://www.roblox.com/asset/?id=10921152678"
+		},
+				},				
+				
 		["NewPack"] = {
 			["climb"] = {
 				["ClimbAnim"] = "http://www.roblox.com/asset/?id=10921154678"
